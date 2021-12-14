@@ -6,5 +6,9 @@ public struct spm_trial {
 }
 
 public struct PC {
+    public init(name: String) {
+        self.name = name
+    }
+    
     let name: String
 }
