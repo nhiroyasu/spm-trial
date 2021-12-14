@@ -4,3 +4,7 @@ public struct spm_trial {
     public init() {
     }
 }
+
+public struct PC {
+    let name: String
+}
